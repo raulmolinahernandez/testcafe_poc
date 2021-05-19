@@ -1,0 +1,14 @@
+{
+  "name": "testcafe_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "Raúl Molina Hernández",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-testcafe": "^0.2.1"
+  }
+}
