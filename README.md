@@ -37,3 +37,7 @@ En esta kata de prueba tenemos instalado node, por lo tanto lo ejecutaremos con 
 ```[bash]
 npm test
 ```
+
+## Enlaces al sitio oficial de Testcafe
+
++ ¿Como empezar en Testcafe? <https://testcafe.io/documentation/402635/getting-started>
